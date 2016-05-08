@@ -1,0 +1,620 @@
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#0 : 10000.0 
+
+Secret image : lenna_60.png
+cover image : lenna_128.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32_grayscale.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#0 : 10000.0 
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_32.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#0 : 10000.0 
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_20.png
+cover image : lenna_100.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 8x8.png
+cover image : lenna_20.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 400.0 
+
+Secret image : 8x8.png
+cover image : lenna_20.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 400.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#1 : 10000.0 
+iterasi#2 : 10000.0 
+iterasi#3 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#1 : 10000.0 
+iterasi#2 : 10000.0 
+iterasi#3 : 10000.0 
+iterasi#4 : 10000.0 
+iterasi#5 : 10000.0 
+iterasi#6 : 10000.0 
+iterasi#7 : 10000.0 
+iterasi#8 : 10000.0 
+iterasi#9 : 10000.0 
+iterasi#10 : 10000.0 
+iterasi#11 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#1 : 10000.0 
+iterasi#2 : 10000.0 
+iterasi#3 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : 4x4_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_100_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 10000.0 
+iterasi#1 : 10000.0 
+iterasi#2 : 10000.0 
+iterasi#3 : 10000.0 
+iterasi#4 : 10000.0 
+iterasi#5 : 10000.0 
+iterasi#6 : 10000.0 
+iterasi#7 : 10000.0 
+iterasi#8 : 10000.0 
+iterasi#9 : 10000.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 1024.0 
+iterasi#1 : 1024.0 
+iterasi#2 : 1024.0 
+iterasi#3 : 1024.0 
+iterasi#4 : 1024.0 
+iterasi#5 : 1024.0 
+iterasi#6 : 1024.0 
+iterasi#7 : 1024.0 
+iterasi#8 : 1024.0 
+iterasi#9 : 1024.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 1024.0 
+iterasi#1 : 1024.0 
+iterasi#2 : 1024.0 
+iterasi#3 : 1024.0 
+iterasi#4 : 1024.0 
+iterasi#5 : 1024.0 
+iterasi#6 : 1024.0 
+iterasi#7 : 1024.0 
+iterasi#8 : 1024.0 
+iterasi#9 : 1024.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 1024.0 
+iterasi#1 : 1024.0 
+iterasi#2 : 1024.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 1024.0 
+
+Secret image : lenna_16_grayscale.png
+cover image : lenna_32_grayscale.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 1024.0 
+
+Secret image : gray_8x8.png
+cover image : gra_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
+
+Secret image : gray_8x8.png
+cover image : gray_16x16.png
+stego image : stego-1pixel.png
+extract image : extraction-1pixel.png
+
+iterasi#0 : 256.0 
